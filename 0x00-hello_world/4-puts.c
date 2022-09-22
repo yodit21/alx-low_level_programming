@@ -1,9 +1,12 @@
 #include <stdio.h>
+
+
 /**
- *main -entry point
+ * main - This is the entry point of the project
  *
- *Return: 0 after printing the function
+ * Return: always 0
  */
+
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");

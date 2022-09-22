@@ -1,9 +1,11 @@
 #include <stdio.h>
+
 /**
- *main - Entry point
- * rints the size of various types on the computer it is compiled and run on.
- * Return: Always 0 (Success)
+ * main - Entry point
+ *
+ * Return: 0
  */
+
 int main(void)
 {
 printf("Size of a char: %d byte(s)\n", sizeof(char));
